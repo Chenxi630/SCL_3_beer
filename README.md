@@ -20,3 +20,5 @@ This is CHEME 5500- Lab3. A practice with GitHub.
 91 Bottles of Bear on the wall, take one down, pass it around, 90 bottles of beer on the wall.
 
 90 Bottles of Bear on the wall, take one down, pass it around, 89 bottles of beer on the wall.  
+
+88 Bottles of Bear on the wall, take one down, pass it around, 87 bottles of beer on the wall.  
